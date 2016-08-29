@@ -1,0 +1,26 @@
+{
+  "name":"Roller Maze",
+  "version": "0.0.1",
+  "authors": [
+    "benflodge <benflodge@googlemail.com>"
+  ],
+  "description": "A Roller Ball Maze Game",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cannon.js": "~0.6.2",
+    "threejs": "0.87.1",
+    "underscore": "~1.8.3",
+    "requirejs": "~2.2.0"
+  }
+}
